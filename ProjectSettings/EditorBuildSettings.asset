@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VP.studio3d/Medical Equipments/Demo/Startup.unity
+    guid: ab76afefd2f80bf45b841c53f902e64a
+  - enabled: 1
+    path: Assets/VP.studio3d/Medical Equipments/Demo/Medical Equipments.unity
+    guid: d34f196fee6cb8848b4474f78f498cd0
+  - enabled: 1
+    path: Assets/VP.studio3d/Medical Equipments/Demo/SampleScene1.unity
+    guid: 6f31c027a6c504649b4a4a6a6777affe
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 342a02b4bc7c09f4e8a74c1f208705b2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2870d98cc039f9b48a08cec38a9c316f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c0f144b76ad45d44faa48c126c5e9950, type: 2}
